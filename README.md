@@ -26,7 +26,9 @@ Açılan menüde ilgili seçimleri yaparak kolayca kullanmaya başlayabilirsiniz
 
 ## 📌 Özellikler
 1.Kolay kullanım arayüzü
+
 2.Güncel servislerle SMS gönderimi
+
 3.Tamamen açık kaynak
 
 ## ⚠️ Yasal Uyarı
