@@ -36,7 +36,7 @@ Bu araç yalnızca eğitim, test ve güvenlik araştırmaları için tasarlanmı
 Projeye katkıda bulunmak isterseniz, pull request gönderebilir veya issue açabilirsiniz. Her türlü öneri ve geri bildirime açığız!
 
 ## 📄 Lisans
-Bu proje MIT lisansı ile lisanslanmıştır.
+Bu proje GNU lisansı ile lisanslanmıştır.
 
 ## 👤 Geliştirici
 Raviento
