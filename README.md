@@ -1,4 +1,4 @@
-# 🇹🇷 SMS-BOMBER Türkiye
+# 🇹🇷 SMSBOMBER Türkiye
 
 SMS-BOMBER, Türkiye'deki numaralara toplu SMS göndermek için geliştirilmiş bir yazılımdır. Eğitim, test ve güvenlik amaçlı kullanılmalıdır. Kötüye kullanım sorumluluğu kullanıcıya aittir.
 
